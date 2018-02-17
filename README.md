@@ -1,2 +1,2 @@
 # Different-algorithms
-Различные маленькие задания. Алгоритмы и контейнеры
+just small exercises
